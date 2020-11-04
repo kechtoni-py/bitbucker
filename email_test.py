@@ -1,5 +1,5 @@
 #### First Bitbucket email code ####
-wardrobe = {"shirt":["red","blue","white"], "jeans":["blue","black"]}
+wardrobe = {"shirt":["red","blue","white", "green"], "jeans":["blue","black"]}
 for cloth in wardrobe:
     #print(wardrobe[cloth])
     for colour in wardrobe[cloth]:
